@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">STARWARS-LIBRARY</string>
+    <string name="show_people">CHARACTERS</string>
+    <string name="show_planets">PLANETS</string>
+    <string name="show_starships">STARSHIPS</string>
+    <string name="show_vehicles">VEHICLES</string>
+    <string name="show_species">SPECIES</string>
+    <string name="show_films">FILMS</string>
+</resources>

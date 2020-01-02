@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/show_people"
+        android:title="@string/show_people"/>
+    <item
+        android:id="@+id/show_planets"
+        android:title="@string/show_planets"/>
+    <item
+        android:id="@+id/show_starships"
+        android:title="@string/show_starships"/>
+    <item
+        android:id="@+id/show_vehicles"
+        android:title="@string/show_vehicles"/>
+    <item
+        android:id="@+id/show_species"
+        android:title="@string/show_species"/>
+    <item
+        android:id="@+id/show_films"
+        android:title="@string/show_films"/>
+</menu>
